@@ -16,6 +16,7 @@ Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (pr
 
 ## Requisiti
 - JDK 20.0.0
+- Maven
 - Libreria Java.net
 - Libreria Java.io
 
