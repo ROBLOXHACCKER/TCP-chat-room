@@ -17,6 +17,9 @@ Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (pr
 ## Collaboratori:
 - Vieri Moscarelli (@Vieri05)
 
+## Comunicazione
+Per comunicazioni o domande, contattaci tramite [paolotttbrogi@gmail.com] / [moscarelli.vieri@itismeucci.com]
+
 ## Installazione
 ```bash
 git clone https://github.com/ROBLOXHACCKER/chat-room-tcp.git
