@@ -14,6 +14,9 @@ Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (pr
 - Libreria Java.net
 - Libreria Java.io
 
+**Collaboratori:**
+- Vieri Moscarelli (@vieri05)
+
 ## Installazione
 ```bash
 git clone https://github.com/ROBLOXHACCKER/chat-room-tcp.git
