@@ -4,9 +4,9 @@
 Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (privatamente o in una chat di gruppo) utilizzando una connessione TCP.
 
 ## Supporta
-- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/checked.png)Text Message
-- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/notChecked.png) Voice Message
-- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/notChecked.png) File Sharing 
+- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/checked.png)  Text Message
+- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/notChecked.png)  Voice Message
+- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/notChecked.png)  File Sharing 
 
 ## Caratteristiche Principali
 - Connessione TCP
