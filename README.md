@@ -8,6 +8,7 @@ Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (pr
 - Group Chat
 - Invio File
 - ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/checked.png)
+- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/notChecked.png)
 
 ## Caratteristiche Principali
 - Connessione TCP
