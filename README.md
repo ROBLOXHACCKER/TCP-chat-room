@@ -19,7 +19,8 @@ Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (pr
 
 ## Comunicazione
 Per comunicazioni o domande, contattaci: 
-[paolotttbrogi@gmail.com] / [moscarelli.vieri@itismeucci.com]
+- [paolotttbrogi@gmail.com]
+- [moscarelli.vieri@itismeucci.com]
 
 ## Installazione
 ```bash
