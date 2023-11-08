@@ -15,6 +15,7 @@ Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (pr
 - Libreria Java.io
 
 ## Collaboratori:
+- Paolo Brogi (@ROBLOXHACCKER)
 - Vieri Moscarelli (@Vieri05)
 
 ## Comunicazione
