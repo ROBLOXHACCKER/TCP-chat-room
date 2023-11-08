@@ -3,7 +3,7 @@
 ## Descrizione
 Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (privatamente o in una chat di gruppo) utilizzando una connessione TCP.
 
-## Supports
+## Supporta
 - Messaggi Privati
 - Group Chat
 - Invio File
