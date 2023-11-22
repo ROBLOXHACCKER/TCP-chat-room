@@ -9,6 +9,8 @@ Chat Room TCP è un progetto che consente agli utenti di comunicare tra loro (pr
 - ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/notChecked.png)  File Sharing
 
 ## Comandi Slash
+- /help
+- /userlist
 - /nickname (Cambio nickname utente)
 - /quit
 
